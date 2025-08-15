@@ -1,3 +1,4 @@
-## 0.0.1
-
-* TODO: Describe initial release.
+## 0.1.0
+- Initial release: Android (pdfbox-android), iOS (PDFKit)
+- Methods: extractText, extractPageText, pageCount
+- URL helpers: extractTextFromUrl, extractPageTextFromUrl, pageCountFromUrl
