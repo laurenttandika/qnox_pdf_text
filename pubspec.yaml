@@ -1,7 +1,6 @@
 name: qnox_pdf_text
 description: Fast text extraction from PDFs for Flutter (Android via pdfbox-android, iOS via PDFKit). Also supports URLs (download then parse).
 version: 0.1.0
-publish_to: africa.qnox
 homepage: https://github.com/laurenttandika/qnox_pdf_text
 repository: https://github.com/laurenttandika/qnox_pdf_text
 issue_tracker: https://github.com/laurenttandika/qnox_pdf_text/issues
