@@ -1,3 +1,7 @@
+## 0.1.2
+- Enhance pdf loading performance
+- Enhance pdf extraction logics
+
 ## 0.1.1
 - No new functionality changes
 
