@@ -18,7 +18,7 @@ Add the dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  qnox_pdf_text: ^0.1.0
+  qnox_pdf_text: ^0.1.1
 ```
 
 ## Then run:
